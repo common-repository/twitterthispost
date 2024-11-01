@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TwitterThisPost\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-22 12:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: twitterthispost.php:80
+#: svn/tags/0.1/twitterthispost.php:79
+#: svn/trunk/twitterthispost.php:79
+msgid "Settings saved!"
+msgstr "Die Einstellungen wurden gespeichert!"
+
+#: twitterthispost.php:88
+#: svn/tags/0.1/twitterthispost.php:87
+#: svn/trunk/twitterthispost.php:87
+msgid "Link title"
+msgstr "Link Titel"
+
+#: twitterthispost.php:89
+#: svn/tags/0.1/twitterthispost.php:88
+#: svn/trunk/twitterthispost.php:88
+msgid "Title of link to display below posts"
+msgstr "Titel des Links, der unter dem Beitrag angezeigt wird!"
+
+#: twitterthispost.php:93
+#: svn/tags/0.1/twitterthispost.php:92
+#: svn/trunk/twitterthispost.php:92
+msgid "Post title"
+msgstr "Post Titel"
+
+#: twitterthispost.php:95
+#: svn/tags/0.1/twitterthispost.php:94
+#: svn/trunk/twitterthispost.php:94
+msgid "Max length of post title. <strong><em>\"0\"</em></strong> for no post title!"
+msgstr "Maximale L&auml;nge des Post Titels. <strong><em>\"0\"</em></strong> für Titel nicht &uuml;bernehmen!"
+
+#: twitterthispost.php:99
+#: svn/tags/0.1/twitterthispost.php:98
+#: svn/trunk/twitterthispost.php:98
+msgid "Tags"
+msgstr "Tags"
+
+#: twitterthispost.php:101
+#: svn/tags/0.1/twitterthispost.php:100
+#: svn/trunk/twitterthispost.php:100
+msgid "Max number of #hashtags to include. <strong><em>\"0\"</em></strong> for no #hashtags!"
+msgstr "Maximale Anzahl der #hashtags, die &uuml;bernommen werden sollen. <strong><em>\"0\"</em></strong> f&uuml; keine!"
+
+#: twitterthispost.php:105
+#: svn/tags/0.1/twitterthispost.php:104
+#: svn/trunk/twitterthispost.php:104
+msgid "Additional target text"
+msgstr "Zusatztext"
+
+#: twitterthispost.php:107
+#: svn/tags/0.1/twitterthispost.php:106
+#: svn/trunk/twitterthispost.php:106
+msgid "possible placeholders: [LINK]"
+msgstr "m&ouml;gliche Platzhalte: [LINK]"
+
+#: twitterthispost.php:114
+#: svn/tags/0.1/twitterthispost.php:113
+#: svn/trunk/twitterthispost.php:113
+msgid "show link on detail page only"
+msgstr "zeige den Twitter-Link nur auf den Detailseiten an?"
+
+#: twitterthispost.php:122
+#: svn/tags/0.1/twitterthispost.php:121
+#: svn/trunk/twitterthispost.php:121
+msgid "open link in new window?"
+msgstr "&ouml;ffne den Link in einem neuen Fenster?"
+
+#: twitterthispost.php:130
+#: svn/tags/0.1/twitterthispost.php:129
+#: svn/trunk/twitterthispost.php:129
+msgid "set link to rel nofollow?"
+msgstr "setze den Link auf rel=\"nofollow\"?"
+
+#: twitterthispost.php:138
+msgid "display about twitter icon?"
+msgstr "zeige twitter hilfe"
+
+#: twitterthispost.php:145
+#: svn/tags/0.1/twitterthispost.php:136
+#: svn/trunk/twitterthispost.php:136
+msgid "save"
+msgstr "speichern"
+
+#: twitterthispost.php:208
+msgid "what's this?"
+msgstr "was ist das?"
+
+#: twitterthispost.php:230
+#: svn/tags/0.1/twitterthispost.php:220
+#: svn/trunk/twitterthispost.php:220
+msgid "Post this to Twitter"
+msgstr "Diesen Artikel auf Twitter posten!"
+
+#: twitterthispost.php:231
+#: svn/tags/0.1/twitterthispost.php:221
+#: svn/trunk/twitterthispost.php:221
+msgid "Reading: [LINK]"
+msgstr "Lesetipp: [LINK]"
+
